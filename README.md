@@ -1,2 +1,2 @@
 # Atlassian Notifications
-oh no no no
+Oh no! This is a typo!
