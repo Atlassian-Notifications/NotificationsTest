@@ -1,1 +1,1 @@
-# NotificationsPlatformTest
+# NotificationsTest
