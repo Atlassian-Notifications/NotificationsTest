@@ -1,2 +1,2 @@
 # Atlassian Notifications
-Remove this later.
+We need to remove this later.
