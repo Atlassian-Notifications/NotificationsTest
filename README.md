@@ -1,1 +1,1 @@
-# AtlassianNotifications
+# Atlassian Notifications
